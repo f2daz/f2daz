@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="510" viewBox="0 0 860 510" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="859" height="509" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="22" y="40" fill="#8b949e" xml:space="preserve">               ::::::-----:</text>
+<text x="22" y="55" fill="#8b949e" xml:space="preserve">          :--      ::------:</text>
+<text x="22" y="70" fill="#8b949e" xml:space="preserve">         --:      :  -----=--:</text>
+<text x="22" y="85" fill="#8b949e" xml:space="preserve">        --::  :: :--::----====-:</text>
+<text x="22" y="100" fill="#8b949e" xml:space="preserve">     : :--::    :-:--==++***+*+--::</text>
+<text x="22" y="115" fill="#8b949e" xml:space="preserve">     :::-::---===+**##%@@@@@@@@#+==</text>
+<text x="22" y="130" fill="#8b949e" xml:space="preserve">    :::-=---=+**##%%%@@@@@@@@@@@#*+=</text>
+<text x="22" y="145" fill="#8b949e" xml:space="preserve">   :-=-=+---=+*####%%@@@@@@@@@@@%***:</text>
+<text x="22" y="160" fill="#8b949e" xml:space="preserve">   -++==+----=**##%%%%@@@@@@@@@@%%#+:</text>
+<text x="22" y="175" fill="#8b949e" xml:space="preserve">   =***==---==*##%%%%%%@@@@@@@@@@%*+: ::</text>
+<text x="22" y="190" fill="#8b949e" xml:space="preserve">   +*%%*---==+*#%%@@%%@@@@@@@@@@@@%+-=:</text>
+<text x="22" y="205" fill="#8b949e" xml:space="preserve">  =-+@%#+--==+++++##**+***####%%%@%+%%+</text>
+<text x="22" y="220" fill="#8b949e" xml:space="preserve"> := +*++=-:::  ::=+++===-::-=+*##+*#%*= -:</text>
+<text x="22" y="235" fill="#8b949e" xml:space="preserve">  :-*#-------::  :-:==%+-=-+***%%*@*%*  :</text>
+<text x="22" y="250" fill="#8b949e" xml:space="preserve">   -+@=-=---===- ::*@**@**#%%@@@@%@#%:</text>
+<text x="22" y="265" fill="#8b949e" xml:space="preserve">   -*@*=++*+++=--- +@@*%@@@%%%@@#%%#%</text>
+<text x="22" y="280" fill="#8b949e" xml:space="preserve">    *%#-==+**+=-: -*@@@##%%%##%%%@%*=</text>
+<text x="22" y="295" fill="#8b949e" xml:space="preserve">    -#*-:--====  ::+%@%@%*#%%@@@@@%+    ::</text>
+<text x="22" y="310" fill="#8b949e" xml:space="preserve">     +*==:-=++-     +%*#@@%%%@@%@%*=    ::</text>
+<text x="22" y="325" fill="#8b949e" xml:space="preserve">     ++==-:==-:    ===***#*#%%%@#**-</text>
+<text x="22" y="340" fill="#8b949e" xml:space="preserve">     -+=--:-:   ::-++=****+=*#%*+++     -:</text>
+<text x="22" y="355" fill="#8b949e" xml:space="preserve">      -=--:       -=**###%%+=*#=++:     :</text>
+<text x="22" y="370" fill="#8b949e" xml:space="preserve">       ---:   :::-===+*#%%##+++===::</text>
+<text x="22" y="385" fill="#8b949e" xml:space="preserve">      -::-:    ::--==+*##*++*+--%= -:</text>
+<text x="22" y="400" fill="#8b949e" xml:space="preserve">     :=   :::  :-=++***#*+*+-:=%@ :--:::</text>
+<text x="22" y="415" fill="#8b949e" xml:space="preserve">     =-      :  :--=+-=++==--#@@= -----::</text>
+<text x="22" y="430" fill="#8b949e" xml:space="preserve">    :-         ::  -::::::-*%@%+ :-----: :</text>
+<text x="22" y="445" fill="#8b949e" xml:space="preserve">    :-                 -=*%%%%+  ------ ::</text>
+<text x="22" y="460" fill="#8b949e" xml:space="preserve">     :             :-=+*#%%%#=  :------::</text>
+<text x="22" y="475" fill="#8b949e" xml:space="preserve">              --=--=+**#####=  ::------::</text>
+<text x="385" y="45" xml:space="preserve"><tspan fill="#58a6ff">f2daz@github </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+<text x="385" y="87" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">11 Jahre, 8 Monate, 9 Tage</tspan></text>
+<text x="385" y="108" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.................................... </tspan><tspan fill="#c9d1d9">Debian, macOS</tspan></text>
+<text x="385" y="129" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">.............................. </tspan><tspan fill="#c9d1d9">Stadtwerk Haßfurt</tspan></text>
+<text x="385" y="150" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Energiewirtschaft &amp; Smart Metering</tspan></text>
+<text x="385" y="171" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">............................ </tspan><tspan fill="#c9d1d9">Claude Code, VS Code</tspan></text>
+<text x="385" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript</tspan></text>
+<text x="385" y="234" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">.................... </tspan><tspan fill="#c9d1d9">Deutsch, Englisch</tspan></text>
+<text x="385" y="255" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Home Assistant, ESP32, PCB-Design</tspan></text>
+<text x="385" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Kontakt </tspan><tspan fill="#484f58">────────────────────────────────────────────</tspan></text>
+<text x="385" y="318" xml:space="preserve"><tspan fill="#ffa657">Web: </tspan><tspan fill="#484f58">...................................... </tspan><tspan fill="#c9d1d9">zoesch.art</tspan></text>
+<text x="385" y="339" xml:space="preserve"><tspan fill="#ffa657">GitHub: </tspan><tspan fill="#484f58">............................. </tspan><tspan fill="#c9d1d9">github.com/f2daz</tspan></text>
+<text x="385" y="381" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">───────────────────────────────────────</tspan></text>
+<text x="385" y="402" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">...... </tspan><tspan fill="#c9d1d9">14 {Contrib: ?}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">38</tspan></text>
+<text x="385" y="423" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">–</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">8</tspan></text>
+<text x="385" y="444" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">–</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">–++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">–--</tspan><tspan fill="#484f58"> )</tspan></text>
+</svg>
