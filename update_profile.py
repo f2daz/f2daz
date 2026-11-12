@@ -17,7 +17,7 @@ W = 54  # Breite der Info-Spalte in Zeichen
 # ── Inhalte: hier anpassen ─────────────────────────────────────────────
 PROFILE = [
     ("OS", "Debian, macOS"),
-    ("Host", "Stadtwerk Haßfurt"),
+    ("Host", "zfx.services"),
     ("Kernel", "Energiewirtschaft & Smart Metering"),
     ("IDE", "Claude Code, VS Code"),
     None,
@@ -26,7 +26,7 @@ PROFILE = [
     ("Hobbies", "Home Assistant, ESP32, PCB-Design"),
 ]
 CONTACT = [
-    ("Web", "zoesch.art"),
+    ("Web", "zfx.services"),
     ("GitHub", "github.com/f2daz"),
 ]
 # ───────────────────────────────────────────────────────────────────────
