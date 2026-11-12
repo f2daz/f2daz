@@ -18,7 +18,7 @@ W = 54  # Breite der Info-Spalte in Zeichen
 PROFILE = [
     ("OS", "Debian, macOS"),
     ("Host", "zfx.services"),
-    ("Kernel", "Energiewirtschaft & Smart Metering"),
+    ("Kernel", "Smart Home & AI"),
     ("IDE", "Claude Code, VS Code"),
     None,
     ("Languages.Programming", "Python, TypeScript, JavaScript"),
